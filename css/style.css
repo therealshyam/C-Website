@@ -1,0 +1,45 @@
+/* CSS Document */
+
+ /* Free Bootstrap Template With Image Carousel By Entheos */
+  .nav-pills{
+		margin-bottom:10px;
+	  font-family: fantasy;
+	  
+			}
+.nav-pills active a{
+	color: yellowgreen;
+}
+			
+ 
+	  .well{
+        background: #1B1A26;
+		text-align: center;
+		color:#FFF;
+		margin-top:10px;
+		margin-bottom:10px;
+	  }
+	  
+	.well h1{  
+	    font-size: 61px;
+		padding-top:10px;
+		padding-bottom:20px;
+		color: #F2BA52;
+		font-family: fantasy;
+		letter-spacing: 7px;
+	}
+.well h1 small{
+		color: #499EBF;
+	font-weight: 100;
+	font-size: 30px;
+	font-family:fantasy;
+	letter-spacing: 1px;
+	}
+	
+	.footer{
+        bottom: -5px;
+        height: 20px;
+        left: 0;
+        position: relative;
+        right: 0;
+   	}
+	
